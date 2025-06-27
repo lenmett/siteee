@@ -1,0 +1,52 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: #910E0E;
+    color: white;
+}
+a {
+    background-color: rgb(255, 172, 172);
+    color: black;
+    padding: 10px 25px 10px 100px;
+    margin: 5px 5px 5px 5px;
+    text-decoration: none;
+}
+
+.vi {
+    text-align: center;
+}
+
+.ci {
+    text-align: center;
+}
+
+p {
+    color: #6D2323;
+    font-size: 20px;
+}
+
+ul {
+    font-size: 20px;
+}
+
+footer {
+     background-color: rgb(255, 172, 172);
+     border: 3px solid #6D2323;
+}
+
+.bi{
+    color: black;
+         border: 3px solid #6D2323;
+}
+
+img {
+    border: hwb(0 5% 56%) 3px solid;
+    margin-left: 10px;
+    border-left: 20px double #6D2323;
+}
+
+ul {
+    border-bottom: #6D2323 5px solid;
+}
